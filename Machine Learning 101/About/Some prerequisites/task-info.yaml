@@ -1,0 +1,14 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: QYUuC+f7nroDUA2aEKxQKfMjJ7Mwaiu7gjtoHNFzlXMhz1F8aDSG873KT9dKhqPtZvwTLtLiRUocGjyq4BRExgtJKpbwxQyOeLGSePjR7HQ=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=About+/+Some+Prerequisites
+status: Solved
+record: -1
+post_submission_on_open: true

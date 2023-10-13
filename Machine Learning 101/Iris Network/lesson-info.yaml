@@ -1,0 +1,11 @@
+type: framework
+content:
+  - Neurons
+  - Neural Network
+  - Forward Step
+  - Backpropagation
+  - Train and Predict
+  - Accuracy
+  - Conclusion
+is_template_based: false
+current_task: 0

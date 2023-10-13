@@ -1,0 +1,14 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: eferBCJRUpIZ4ayufvWxuWrBZmK6TKQctwAe5ytqCnkpkdz6liricNSAd2lbIswT9UyVy2bKJ2/HngCngB5NSxBvAqH+o49asGnf1pVkWUk=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Why+Study+ML+/+Choosing+an+Algorithm
+status: Unchecked
+record: -1
+post_submission_on_open: true
